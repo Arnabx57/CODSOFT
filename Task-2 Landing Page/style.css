@@ -25,11 +25,12 @@ section {
 }
 
 .image img {
-    width: 54rem;
+    width: 37rem;
     float: left;
-    margin-left: 0px 0px 0px 30px;
-    height: 35rem;
+    /* margin-left: 0px 0px 0px 30px; */
+     /* height: 35rem */
 }
+
 
 header {
     position: relative;
